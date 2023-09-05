@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试文章2</title>
+    <url>/0002/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类测试2</category>
+      </categories>
+      <tags>
+        <tag>测试标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试文章1</title>
+    <url>/0001/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类测试1</category>
+      </categories>
+      <tags>
+        <tag>测试标签1</tag>
+      </tags>
+  </entry>
+</search>
